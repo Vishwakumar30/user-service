@@ -1,7 +1,4 @@
 
-user-service/
-
-1.app.py 
 
 from flask import Flask, jsonify, request
 
